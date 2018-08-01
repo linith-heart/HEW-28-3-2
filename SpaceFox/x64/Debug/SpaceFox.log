@@ -1,0 +1,137 @@
+﻿2/19/2018 2:45:28 PM にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\kazu\Documents\Visual Studio 2015\Projects\SpaceFox\SpaceFox\SpaceFox.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /Od /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt bullet.cpp camera.cpp DBD.cpp effect.cpp "environment hub.cpp" fade.cpp game.cpp input.cpp light.cpp main.cpp map.cpp mathWk.cpp "player option.cpp" player.cpp shadow.cpp skybox.cpp title.cpp
+         title.cpp
+         skybox.cpp
+         shadow.cpp
+         player.cpp
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\player.cpp(436): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\player.cpp(437): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\player.cpp(358): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+         player option.cpp
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\player option.cpp(155): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\player option.cpp(163): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+         mathWk.cpp
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\mathwk.cpp(80): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+         map.cpp
+         main.cpp
+         light.cpp
+         input.cpp
+         game.cpp
+         fade.cpp
+         environment hub.cpp
+         effect.cpp
+         DBD.cpp
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\dbd.cpp(110): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\dbd.cpp(115): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\dbd.cpp(120): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+         camera.cpp
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(123): warning C4101: 'check': ローカル変数は 1 度も使われていません。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(122): warning C4101: 'j': ローカル変数は 1 度も使われていません。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(121): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(185): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(186): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(187): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(202): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(203): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(204): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(219): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(220): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(221): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(236): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(237): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(238): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(263): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(264): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(291): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(292): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(320): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(321): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(349): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(350): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(381): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\spacefox\spacefox\camera.cpp(382): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+         bullet.cpp
+         コードを生成中...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kazu\Documents\Visual Studio 2015\Projects\SpaceFox\x64\Debug\SpaceFox.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\kazu\Documents\Visual Studio 2015\Projects\SpaceFox\x64\Debug\SpaceFox.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\kazu\Documents\Visual Studio 2015\Projects\SpaceFox\x64\Debug\SpaceFox.lib" /MACHINE:X64 x64\Debug\bullet.obj
+         x64\Debug\camera.obj
+         x64\Debug\DBD.obj
+         x64\Debug\effect.obj
+         "x64\Debug\environment hub.obj"
+         x64\Debug\fade.obj
+         x64\Debug\game.obj
+         x64\Debug\input.obj
+         x64\Debug\light.obj
+         x64\Debug\main.obj
+         x64\Debug\map.obj
+         x64\Debug\mathWk.obj
+         "x64\Debug\player option.obj"
+         x64\Debug\player.obj
+         x64\Debug\shadow.obj
+         x64\Debug\skybox.obj
+         x64\Debug\title.obj
+     1>player.obj : error LNK2019: 未解決の外部シンボル D3DXMatrixMultiply が関数 "void __cdecl DrawPlayer(void)" (?DrawPlayer@@YAXXZ) で参照されました。
+     1>shadow.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>skybox.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>bullet.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>effect.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>map.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>player option.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>bullet.obj : error LNK2019: 未解決の外部シンボル D3DXMatrixInverse が関数 "struct D3DXMATRIX __cdecl GetInvRotateMatBull(void)" (?GetInvRotateMatBull@@YA?AUD3DXMATRIX@@XZ) で参照されました。
+     1>player.obj : error LNK2019: 未解決の外部シンボル D3DXMatrixScaling が関数 "long __cdecl InitPlayer(void)" (?InitPlayer@@YAJXZ) で参照されました。
+     1>skybox.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>bullet.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>effect.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>map.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>player option.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>player.obj : error LNK2019: 未解決の外部シンボル D3DXMatrixTranslation が関数 "long __cdecl InitPlayer(void)" (?InitPlayer@@YAJXZ) で参照されました。
+     1>shadow.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>skybox.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>bullet.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>effect.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>map.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>player option.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>bullet.obj : error LNK2019: 未解決の外部シンボル D3DXMatrixLookAtLH が関数 "struct D3DXMATRIX __cdecl GetInvRotateMatBull(void)" (?GetInvRotateMatBull@@YA?AUD3DXMATRIX@@XZ) で参照されました。
+     1>camera.obj : error LNK2001: 外部シンボル "D3DXMatrixLookAtLH" は未解決です。
+     1>player.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>shadow.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>skybox.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>bullet.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>effect.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>map.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>player option.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>camera.obj : error LNK2019: 未解決の外部シンボル D3DXMatrixPerspectiveFovLH が関数 "void __cdecl UpdateCamera(void)" (?UpdateCamera@@YAXXZ) で参照されました。
+     1>DBD.obj : error LNK2019: 未解決の外部シンボル D3DXCreateFontA が関数 "void __cdecl InitDBD(void)" (?InitDBD@@YAXXZ) で参照されました。
+     1>input.obj : error LNK2019: 未解決の外部シンボル DirectInput8Create が関数 "long __cdecl InitInput(struct HINSTANCE__ *,struct HWND__ *)" (?InitInput@@YAJPEAUHINSTANCE__@@PEAUHWND__@@@Z) で参照されました。
+     1>input.obj : error LNK2001: 外部シンボル "IID_IDirectInput8A" は未解決です。
+     1>input.obj : error LNK2001: 外部シンボル "GUID_SysMouse" は未解決です。
+     1>input.obj : error LNK2001: 外部シンボル "GUID_SysKeyboard" は未解決です。
+     1>input.obj : error LNK2001: 外部シンボル "c_dfDIMouse2" は未解決です。
+     1>input.obj : error LNK2001: 外部シンボル "c_dfDIKeyboard" は未解決です。
+     1>input.obj : error LNK2001: 外部シンボル "c_dfDIJoystick" は未解決です。
+     1>light.obj : error LNK2019: 未解決の外部シンボル D3DXVec3Normalize が関数 "void __cdecl InitLight(void)" (?InitLight@@YAXXZ) で参照されました。
+     1>main.obj : error LNK2019: 未解決の外部シンボル Direct3DCreate9 が関数 "long __cdecl Init(struct HINSTANCE__ *,struct HWND__ *,int)" (?Init@@YAJPEAUHINSTANCE__@@PEAUHWND__@@H@Z) で参照されました。
+     1>skybox.obj : error LNK2019: 未解決の外部シンボル D3DXMatrixRotationYawPitchRoll が関数 "long __cdecl InitSkyb(void)" (?InitSkyb@@YAJXZ) で参照されました。
+     1>map.obj : error LNK2001: 外部シンボル "D3DXMatrixRotationYawPitchRoll" は未解決です。
+     1>player option.obj : error LNK2001: 外部シンボル "D3DXMatrixRotationYawPitchRoll" は未解決です。
+     1>player.obj : error LNK2001: 外部シンボル "D3DXMatrixRotationYawPitchRoll" は未解決です。
+     1>shadow.obj : error LNK2001: 外部シンボル "D3DXMatrixRotationYawPitchRoll" は未解決です。
+     1>map.obj : error LNK2019: 未解決の外部シンボル D3DXLoadMeshFromXA が関数 "long __cdecl InitMap(void)" (?InitMap@@YAJXZ) で参照されました。
+     1>player option.obj : error LNK2001: 外部シンボル "D3DXLoadMeshFromXA" は未解決です。
+     1>player.obj : error LNK2001: 外部シンボル "D3DXLoadMeshFromXA" は未解決です。
+     1>skybox.obj : error LNK2001: 外部シンボル "D3DXLoadMeshFromXA" は未解決です。
+     1>C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\d3d9.lib : warning LNK4272: ライブラリのコンピューターの種類 'X86' がターゲットのコンピューターの種類' x64' と競合しています
+     1>C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\d3dx9.lib : warning LNK4272: ライブラリのコンピューターの種類 'X86' がターゲットのコンピューターの種類' x64' と競合しています
+     1>C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\dxguid.lib : warning LNK4272: ライブラリのコンピューターの種類 'X86' がターゲットのコンピューターの種類' x64' と競合しています
+     1>C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\dinput8.lib : warning LNK4272: ライブラリのコンピューターの種類 'X86' がターゲットのコンピューターの種類' x64' と競合しています
+     1>C:\Users\kazu\Documents\Visual Studio 2015\Projects\SpaceFox\x64\Debug\SpaceFox.exe : fatal error LNK1120: 19 件の未解決の外部参照
+     1>プロジェクト "C:\Users\kazu\Documents\Visual Studio 2015\Projects\SpaceFox\SpaceFox\SpaceFox.vcxproj" (Build ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:11.79

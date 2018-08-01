@@ -1,0 +1,174 @@
+﻿8/1/2018 8:14:16 PM にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\kazu\Documents\Visual Studio 2015\Projects\180307_HEW\SpaceFox\SpaceFox.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt boost_gauge.cpp bullet.cpp camera.cpp "check hit.cpp" cockpit.cpp DBD.cpp effect.cpp EnmAction.cpp "environment hub.cpp" explosion.cpp fade.cpp game.cpp gameover.cpp hp_gauge.cpp input.cpp laser.cpp light.cpp loadEnmDB.cpp lockon.cpp main.cpp map.cpp mathWk.cpp pause.cpp "player homing.cpp" "player option.cpp" player.cpp polygon.cpp result.cpp reticule.cpp score.cpp shadow.cpp skill.cpp skybox.cpp sound.cpp stageManager.cpp target.cpp textureAnime.cpp title.cpp ui.cpp wait.cpp ZDarkFantasy.cpp
+         ZDarkFantasy.cpp
+         wait.cpp
+         ui.cpp
+         title.cpp
+         textureAnime.cpp
+         target.cpp
+         stageManager.cpp
+         sound.cpp
+         skybox.cpp
+         skill.cpp
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\skill.cpp(381): warning C4552: '>=': 演算子にプログラム上の作用がありません。作用を伴う演算子を使用してください
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\skill.cpp(408): warning C4552: '>=': 演算子にプログラム上の作用がありません。作用を伴う演算子を使用してください
+         shadow.cpp
+         score.cpp
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\score.cpp(183): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\score.cpp(186): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\score.cpp(189): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\score.cpp(192): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+         reticule.cpp
+         result.cpp
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\result.cpp(66): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+         polygon.cpp
+         player.cpp
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player.cpp(241): warning C4101: 'j': ローカル変数は 1 度も使われていません。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player.cpp(701): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player.cpp(702): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player.cpp(624): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player.cpp(743): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player.cpp(802): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player.cpp(803): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player.cpp(840): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player.cpp(876): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+         player option.cpp
+         player homing.cpp
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player homing.cpp(138): warning C4101: 'h': ローカル変数は 1 度も使われていません。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player homing.cpp(245): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player homing.cpp(246): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player homing.cpp(247): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player homing.cpp(254): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player homing.cpp(255): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player homing.cpp(256): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player homing.cpp(262): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player homing.cpp(263): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player homing.cpp(264): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player homing.cpp(270): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player homing.cpp(271): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player homing.cpp(272): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\player homing.cpp(285): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+         pause.cpp
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\pause.cpp(480): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\pause.cpp(481): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\pause.cpp(482): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\pause.cpp(483): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+         mathWk.cpp
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\mathwk.cpp(80): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+         コードを生成中...
+         コンパイル中...
+         map.cpp
+         main.cpp
+         lockon.cpp
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\lockon.cpp(165): warning C4101: 'matDef': ローカル変数は 1 度も使われていません。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\lockon.cpp(164): warning C4101: 'pD3DXMat': ローカル変数は 1 度も使われていません。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\lockon.cpp(166): warning C4101: 'j': ローカル変数は 1 度も使われていません。
+         loadEnmDB.cpp
+         light.cpp
+         laser.cpp
+         input.cpp
+         hp_gauge.cpp
+         gameover.cpp
+         game.cpp
+         fade.cpp
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\fade.cpp(59): warning C4101: 'mode': ローカル変数は 1 度も使われていません。
+         explosion.cpp
+         environment hub.cpp
+         EnmAction.cpp
+         effect.cpp
+         DBD.cpp
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\dbd.cpp(121): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\dbd.cpp(126): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\dbd.cpp(131): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\dbd.cpp(136): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\dbd.cpp(141): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\dbd.cpp(146): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\dbd.cpp(151): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+         cockpit.cpp
+         check hit.cpp
+         camera.cpp
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(182): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(183): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(184): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(199): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(200): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(201): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(216): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(217): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(218): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(233): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(234): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(235): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(262): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(263): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(292): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(293): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(321): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(322): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(350): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(351): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(383): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\camera.cpp(384): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+         bullet.cpp
+     1>c:\users\kazu\documents\visual studio 2015\projects\180307_hew\spacefox\bullet.cpp(560): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+         コードを生成中...
+         コンパイル中...
+         boost_gauge.cpp
+         コードを生成中...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kazu\Documents\Visual Studio 2015\Projects\180307_HEW\Debug\SpaceFox.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\kazu\Documents\Visual Studio 2015\Projects\180307_HEW\Debug\SpaceFox.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\kazu\Documents\Visual Studio 2015\Projects\180307_HEW\Debug\SpaceFox.lib" /MACHINE:X86 Debug\boost_gauge.obj
+         Debug\bullet.obj
+         Debug\camera.obj
+         "Debug\check hit.obj"
+         Debug\cockpit.obj
+         Debug\DBD.obj
+         Debug\effect.obj
+         Debug\EnmAction.obj
+         "Debug\environment hub.obj"
+         Debug\explosion.obj
+         Debug\fade.obj
+         Debug\game.obj
+         Debug\gameover.obj
+         Debug\hp_gauge.obj
+         Debug\input.obj
+         Debug\laser.obj
+         Debug\light.obj
+         Debug\loadEnmDB.obj
+         Debug\lockon.obj
+         Debug\main.obj
+         Debug\map.obj
+         Debug\mathWk.obj
+         Debug\pause.obj
+         "Debug\player homing.obj"
+         "Debug\player option.obj"
+         Debug\player.obj
+         Debug\polygon.obj
+         Debug\result.obj
+         Debug\reticule.obj
+         Debug\score.obj
+         Debug\shadow.obj
+         Debug\skill.obj
+         Debug\skybox.obj
+         Debug\sound.obj
+         Debug\stageManager.obj
+         Debug\target.obj
+         Debug\textureAnime.obj
+         Debug\title.obj
+         Debug\ui.obj
+         Debug\wait.obj
+         Debug\ZDarkFantasy.obj
+         SpaceFox.vcxproj -> C:\Users\kazu\Documents\Visual Studio 2015\Projects\180307_HEW\Debug\SpaceFox.exe
+     1>プロジェクト "C:\Users\kazu\Documents\Visual Studio 2015\Projects\180307_HEW\SpaceFox\SpaceFox.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:26.35
